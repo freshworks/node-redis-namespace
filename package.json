@@ -33,7 +33,7 @@
     "node": ">=0.4.0"
   },
   "dependencies": {
-    "redis": "0.12.1"
+    "redis": "2.0.0"
   },
   "licenses": [
     "MIT"
